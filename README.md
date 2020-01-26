@@ -17,4 +17,4 @@ Aquí muestro una captura:
 
 
 
-Gracias a novocain en steam: https://steamcommunity.com/app/260190/discussions/0/558746745705950767/
+Creditos a Novocain en steam
