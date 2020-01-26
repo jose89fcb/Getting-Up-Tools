@@ -17,4 +17,4 @@ Aquí muestro una captura:
 
 
 
-Creditos a Novocain en steam
+<b>Creditos:</b> a Novocain en steam
