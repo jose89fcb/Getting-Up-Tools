@@ -13,7 +13,7 @@ He tomado mi tiempo en descargar está herramienta y editarla, lo que consiste e
 
 Aquí muestro una captura:
 
-https://i.imgur.com/7L4p4F9.png
+[img]https://i.imgur.com/7L4p4F9.png[/img]
 
 
 
