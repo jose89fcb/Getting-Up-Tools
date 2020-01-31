@@ -20,6 +20,8 @@ Ahora puedes añadir la ruta para poder abrir la carpeta "<b>tag_art</b>" del ju
 
 Cosas añadidas:
 <br>
+He añadido para poder visualizar las texturas del juego, depende de la ubicacion donde tengais el juego
+<BR>
 Skin en el formulario.
 <br>
 Haciendo clic derecho en cualquier parte del formulario puedes ocultar y abrir la aplicacion
