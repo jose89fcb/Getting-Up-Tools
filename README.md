@@ -16,5 +16,22 @@ Aquí muestro una captura:
 <img src="https://i.imgur.com/7L4p4F9.png">
 
 
+Cosas añadidas:
+Skin en el formulario.
+Haciendo clic derecho puedes ocultar la aplicacion
+<img src="https://i.imgur.com/OJL1h7N.png">
+<img src="https://i.imgur.com/tNFJ10N.png">
+
+
+Antes:
+<img src="https://i.imgur.com/rQe1GzE.png">
+
+
+Ahora:
+<img src="https://i.imgur.com/lw8szg0.png">
+
 
 <b>Creditos:</b> a Novocain en steam
+
+
+
