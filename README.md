@@ -12,8 +12,9 @@ https://www.virustotal.com/gui/file/da8ecd4a23d1b569c77d957af6ad3b60d5a669096ff2
 He tomado mi tiempo en descargar está herramienta y editarla, lo que consiste esta modificacion es cambiar la ruta de las texturas desde un archivo de configuracion de está manera facilitara a cualquier persona que se descargue esta herramienta
 
 Aquí muestro una captura:
+Ahora puedes añadir la ruta para poder abrir la carpeta "<b>tag_art</b>" del juego si gustas
 
-<img src="https://i.imgur.com/7L4p4F9.png">
+<img src="https://i.imgur.com/kofTHw2.png">
 
 
 Cosas añadidas:
