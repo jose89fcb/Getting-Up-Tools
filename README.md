@@ -13,7 +13,7 @@ He tomado mi tiempo en descargar está herramienta y editarla, lo que consiste e
 
 Aquí muestro una captura:
 <br>
-He añadido para poder visualizar las texturas del juego, depende de la ubicacion donde tengais el juego
+He añadido para modificar la ruta del juego, para poder visualizar las texturas del juego, depende de la ubicacion donde tengais el juego
 <br>
 Ahora puedes añadir la ruta para poder abrir la carpeta "<b>tag_art</b>" del juego si gustas
 
