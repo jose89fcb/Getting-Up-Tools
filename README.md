@@ -20,7 +20,7 @@ Cosas añadidas:
 <br>
 Skin en el formulario.
 <br>
-Haciendo clic derecho puedes ocultar la aplicacion
+Haciendo clic derecho en cualquier parte del formulario puedes ocultar y abrir la aplicacion
 <br>
 <img src="https://i.imgur.com/OJL1h7N.png">
 <img src="https://i.imgur.com/tNFJ10N.png">
