@@ -41,7 +41,7 @@ Ahora:
 
 
 Pronto publicare está skin rosa:
-<img src="https://i.imgur.com/13BaOza.png">
+<img title="Skin Rosa" src="https://i.imgur.com/TLZpTS6.png">
 
 
 <b>Creditos:</b> a Novocain en steam
