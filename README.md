@@ -40,7 +40,7 @@ Ahora:
 <img src="https://i.imgur.com/lw8szg0.png">
 
 
-Pronto publicare está skin rosa:
+La skin Rosa ya está disponible para descargar
 <img title="Skin Rosa" src="https://i.imgur.com/TLZpTS6.png">
 
 
